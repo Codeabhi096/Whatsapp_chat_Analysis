@@ -37,7 +37,8 @@ streamlit run app.py
 
 ## 📸 App Screenshot:
 
-![App Screenshot](https://github.com/Codeabhi096/Whatsapp_chat_Analysis/blob/main/screenshot.png?raw=true)
+![App Screenshot](image.JPG)
+
 
 ---
 
