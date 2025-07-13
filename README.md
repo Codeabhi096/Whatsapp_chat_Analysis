@@ -80,6 +80,6 @@ If you like this project, **give it a ⭐ on GitHub.**
 
 ## 📬 Contact:
 
-For any queries, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile-link).
+For any queries, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/abhishekbhardwaj01/).
 
 ---
