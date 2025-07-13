@@ -1,5 +1,6 @@
 
-# WhatsApp Chat Analysis 📊
+# WhatsApp Chat Analysis 📊 # Whatsapp Chat Analysis &nbsp; [🔗 Live App](https://whatsappchatanalysis01.streamlit.app/)
+
 
 A **Streamlit-based web app** to analyze and visualize your **WhatsApp chat data** in a meaningful and interactive way.
 
