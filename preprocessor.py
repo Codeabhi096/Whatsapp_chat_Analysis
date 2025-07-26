@@ -24,6 +24,11 @@ def preprocess(data):
             users.append('group_notification')
             messages.append(entry[0])
 
+
+     df['user'] = users
+    df['message'] = messages
+    df.drop(columns=['user_message'], inplace=True)
+
    
 
     df['only_date'] = df['date'].dt.date
